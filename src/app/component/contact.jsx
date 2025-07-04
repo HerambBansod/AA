@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Contact() {
   return (
-    <section className="min-h-screen bg-gradient-to-r from-pink-500 to-orange-400  flex items-center justify-center px-4 py-16 font-sans">
+    <section id="contact" className="min-h-screen bg-gradient-to-r from-pink-500 to-orange-400  flex items-center justify-center px-4 py-16 font-sans">
       <div className="max-w-6xl w-full bg-white shadow-2xl rounded-3xl overflow-hidden grid md:grid-cols-2">
 
         
