@@ -92,9 +92,11 @@ export default function Home() {
                     <button className="bg-gradient-to-r from-pink-500 to-orange-400 hover:from-pink-600 hover:to-orange-500 text-white px-6 py-2 rounded-full font-medium shadow-lg transition">
                         Resume ↗
                     </button>
-                    <button className="bg-gradient-to-r from-pink-500 to-orange-400 hover:from-pink-600 hover:to-orange-500 text-white px-6 py-2 rounded-full font-medium shadow-lg transition">
-                        Hire me
-                    </button>
+                 <a href="#contact">
+                        <button className="bg-gradient-to-r from-pink-500 to-orange-400 hover:from-pink-600 hover:to-orange-500 text-white px-6 py-2 rounded-full font-medium shadow-lg transition">
+                            Hire me
+                        </button>
+                    </a>
                 </div>
             </section>
         </main >
